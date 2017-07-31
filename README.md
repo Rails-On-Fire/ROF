@@ -17,6 +17,6 @@ To login as an administrator, please use the following Email and Password:
 
 Brought to you by Team 
 
-🔥🔥🔥  Rails on Fire 🔥🔥🔥🔥
+🔥 🔥 🔥 🔥  Rails on Fire 🔥 🔥 🔥 🔥
 
 Members: Allain, Amir, Sani, Jackie Ell, Jackie Chui, Collin 
